@@ -41,49 +41,53 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCPdAWfgNy1v_8PVXQ6Vmieh8ywkAzk1q4',
-    appId: '1:485151669727:web:9736d7fcc325a8b94c986a',
-    messagingSenderId: '485151669727',
-    projectId: 'a3tof-chat',
-    authDomain: 'a3tof-chat.firebaseapp.com',
-    storageBucket: 'a3tof-chat.firebasestorage.app',
-    measurementId: 'G-Q0QY7NV47X',
+    apiKey: 'AIzaSyDrvIr-YljhNeK4e1DK3jfid0bgBQ9hLho',
+    appId: '1:681680089277:web:3c289c9f6fdf6bc8f147d4',
+    messagingSenderId: '681680089277',
+    projectId: 'fruit-hub-da195',
+    authDomain: 'fruit-hub-da195.firebaseapp.com',
+    storageBucket: 'fruit-hub-da195.firebasestorage.app',
+    measurementId: 'G-E8LQCF08SM',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCDf3eREJr0xHAfGklT5JNVHWe7UwRQKl4',
-    appId: '1:485151669727:android:da12950d825806854c986a',
-    messagingSenderId: '485151669727',
-    projectId: 'a3tof-chat',
-    storageBucket: 'a3tof-chat.firebasestorage.app',
+    apiKey: 'AIzaSyCdko6q-MpPmsHshC2lGfM9XNziJsdTZAU',
+    appId: '1:681680089277:android:14ebcca8c5b766c5f147d4',
+    messagingSenderId: '681680089277',
+    projectId: 'fruit-hub-da195',
+    storageBucket: 'fruit-hub-da195.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD4wjgb1zfG9KEa__zlMTvVJphWO2kEiUA',
-    appId: '1:485151669727:ios:cb55192d096cf9814c986a',
-    messagingSenderId: '485151669727',
-    projectId: 'a3tof-chat',
-    storageBucket: 'a3tof-chat.firebasestorage.app',
-    iosBundleId: 'com.example.fruiteHubDashboard',
+    apiKey: 'AIzaSyBGA0lKhoQpF7BdIqWx1kBE6PNgVfctyqw',
+    appId: '1:681680089277:ios:153917ff077148dff147d4',
+    messagingSenderId: '681680089277',
+    projectId: 'fruit-hub-da195',
+    storageBucket: 'fruit-hub-da195.firebasestorage.app',
+    androidClientId: '681680089277-0pdmuole3oinulhtt13lbclp5u7fepdt.apps.googleusercontent.com',
+    iosClientId: '681680089277-riecl6q8040i6r34qgj63c7elfaskm7s.apps.googleusercontent.com',
+    iosBundleId: 'com.example.fruitsHubDashboard',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD4wjgb1zfG9KEa__zlMTvVJphWO2kEiUA',
-    appId: '1:485151669727:ios:cb55192d096cf9814c986a',
-    messagingSenderId: '485151669727',
-    projectId: 'a3tof-chat',
-    storageBucket: 'a3tof-chat.firebasestorage.app',
-    iosBundleId: 'com.example.fruiteHubDashboard',
+    apiKey: 'AIzaSyBGA0lKhoQpF7BdIqWx1kBE6PNgVfctyqw',
+    appId: '1:681680089277:ios:153917ff077148dff147d4',
+    messagingSenderId: '681680089277',
+    projectId: 'fruit-hub-da195',
+    storageBucket: 'fruit-hub-da195.firebasestorage.app',
+    androidClientId: '681680089277-0pdmuole3oinulhtt13lbclp5u7fepdt.apps.googleusercontent.com',
+    iosClientId: '681680089277-riecl6q8040i6r34qgj63c7elfaskm7s.apps.googleusercontent.com',
+    iosBundleId: 'com.example.fruitsHubDashboard',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAyP1cVd2Gy114kn6GvTWjdJRrwfnLyZT0',
-    appId: '1:485151669727:web:c36057a242e083d74c986a',
-    messagingSenderId: '485151669727',
-    projectId: 'a3tof-chat',
-    authDomain: 'a3tof-chat.firebaseapp.com',
-    storageBucket: 'a3tof-chat.firebasestorage.app',
-    measurementId: 'G-26KQ916SL3',
+    apiKey: 'AIzaSyDrvIr-YljhNeK4e1DK3jfid0bgBQ9hLho',
+    appId: '1:681680089277:web:31796cd6ef5dc8bef147d4',
+    messagingSenderId: '681680089277',
+    projectId: 'fruit-hub-da195',
+    authDomain: 'fruit-hub-da195.firebaseapp.com',
+    storageBucket: 'fruit-hub-da195.firebasestorage.app',
+    measurementId: 'G-SQP3024XQM',
   );
 
 }
